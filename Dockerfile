@@ -1,5 +1,5 @@
-FROM ubuntu
+FROM alpine:latest
 
-RUN echo env
+RUN echo $AWS_ACCESS_KEY_ID
 
 RUN sleep infinity
