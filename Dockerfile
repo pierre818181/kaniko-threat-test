@@ -2,4 +2,4 @@ FROM alpine:latest
 
 RUN echo "nothing"
 
-RUN echo "this thing"
+RUN echo "this thig"
