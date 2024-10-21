@@ -1,3 +1,3 @@
 FROM alpine:latest
 
-RUN echo "notng"
+RUN echo "ntng"
