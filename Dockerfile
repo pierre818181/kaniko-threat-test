@@ -1,3 +1,3 @@
 FROM alpine:latest
 
-RUN echo "nothing"
+RUN echo "nothin"
