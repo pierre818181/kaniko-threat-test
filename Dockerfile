@@ -1,3 +1,5 @@
 FROM alpine:latest
 
-RUN apk update
+RUN echo "nothing"
+
+RUN echo "this thing"
