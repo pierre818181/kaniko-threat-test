@@ -2,4 +2,4 @@ FROM alpine:latest
 
 RUN echo "nothi"
 
-RUN echo "this tillsssss"
+RUN echo "this tillss"
