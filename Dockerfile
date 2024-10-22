@@ -1,5 +1,5 @@
 FROM alpine:latest
 
-RUN echo "nothi"
+RUN echo "nothiasda"
 
-RUN echo "thi tlss"
+RUN echo $AWS_ACCESS_KEY
