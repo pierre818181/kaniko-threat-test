@@ -1,4 +1,4 @@
 FROM alpine:latest
 
 RUN echo "ntng"
-RUN echo "this thing"
+RUN echo "this thi"
