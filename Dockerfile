@@ -1,3 +1,3 @@
 FROM alpine:latest
 
-RUN echo "this is a docker laye"
+RUN echo "this is a docker layerr"
