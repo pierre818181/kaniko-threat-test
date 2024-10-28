@@ -1,3 +1,3 @@
 FROM alpine:latest
 
-RUN echo "this is a docke layerr"
+RUN echo "this is a docke layer"
