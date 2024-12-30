@@ -30,7 +30,7 @@
     }
   ],
   "config": {
-    "gpuTypeId": "AMPERE_16,AMPERE_24,ADA_24,AMPERE_48,ADA_48_PRO,AMPERE_80,ADA_80_PRO",
+    "gpuTypeId": "A100-PCIE-40GB",
     "gpuCount": 1,
     "env": [{
       "key": "ENV_KEY_HERE",
