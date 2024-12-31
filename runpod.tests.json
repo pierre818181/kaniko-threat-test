@@ -1,7 +1,7 @@
 {
   "tests": [
     {
-      "name": "validation_text_inut",
+      "name": "validation_txt_inut",
       "input": {
         "text": "Hello world",
         "language": "en"
