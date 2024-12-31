@@ -31,7 +31,7 @@
   ],
   "config": {
     "runsOn": "CPU",
-    "cpuFlavor": "cpu3c-4-16",
+    "cpuFlavor": "cpu3g-4-16",
     "env": [{
       "key": "ENV_KEY_HERE",
       "value": "ENV_VALUE_HERE"
