@@ -15,7 +15,7 @@
       }
     },
     {
-      "name": "validation_text_input",
+      "name": "validation_text_inpt",
       "input": {
         "text": "Hello world",
         "language": "en"
