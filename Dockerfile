@@ -1,4 +1,4 @@
-FROM ubuntu:latest
+FROM python:latest
 
 RUN echo "this is a docker layrr"
 
