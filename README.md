@@ -17,5 +17,4 @@ njknkjkja
 asa
 as
 adsadssd
-jb
 asdasd
